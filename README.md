@@ -4,7 +4,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-S1Z0xDuP-K](https://www.frontendmentor.io/solutions/huddle-landing-page-S1Z0xDuP-K)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-wGThuPYJKF](https://www.frontendmentor.io/solutions/testimonials-grid-section-wGThuPYJKF)
 - Live Site URL: [https://zauri-khutsishvili.github.io/testimonials-grid-section/](https://zauri-khutsishvili.github.io/testimonials-grid-section/)
 
 ## Built with
